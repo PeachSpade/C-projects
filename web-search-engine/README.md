@@ -1,5 +1,5 @@
-Developed in C and Unix environment
-Implemented web crawling and indexing
-Used trie data structures
-Implemented TF-IDF ranking
-Included memory management and Makefile support
+- Developed in C and Unix environment
+- Implemented web crawling and indexing
+- Used trie data structures
+- Implemented TF-IDF ranking
+- Included memory management and Makefile support
